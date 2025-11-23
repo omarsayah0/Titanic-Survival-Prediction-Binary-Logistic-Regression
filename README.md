@@ -120,10 +120,10 @@ plt.show()
 
 3. Example Output:
 
-<img width="988" height="547" alt="download" src="https://github.com/user-attachments/assets/e00c8e65-b729-4ac4-a706-2492f3394345" />
-<img width="1489" height="790" alt="download (1)" src="https://github.com/user-attachments/assets/a5287234-8942-4fc0-a2a7-e16ed4af1447" />
-<img width="501" height="393" alt="download (2)" src="https://github.com/user-attachments/assets/59bd4112-32b7-4056-8979-592e5c903807" />  
-<img width="536" height="393" alt="download (3)" src="https://github.com/user-attachments/assets/d652cb19-8bd6-47cd-b485-3d293d2872a5" />
+<img width="1862" height="1033" alt="image" src="https://github.com/user-attachments/assets/b72cce8a-298d-458e-912f-cea956611fd5" />
+<img width="1859" height="987" alt="image" src="https://github.com/user-attachments/assets/025247d6-d1a9-4dc1-ba38-279ab7b36c6d" />
+<img width="1118" height="880" alt="image" src="https://github.com/user-attachments/assets/969ec320-d87d-44cf-8b39-10924e58f310" />
+<img width="1202" height="880" alt="image" src="https://github.com/user-attachments/assets/1aa9d844-52d8-4dff-8897-f0d3993ca545" />
 
 
 ## Author
