@@ -1,4 +1,4 @@
-# Titanic Survival Prediction (Logistic Regression)
+# Titanic
 
 ## About
 This project predicts passenger survival on the Titanic using **Logistic Regression**.  
